@@ -4,3 +4,4 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles",];
 
 
 var myArray =["snickers", "hundred grand", "kitkat", "skittles"]
+myArray[snickers] = 5 
