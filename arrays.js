@@ -1,6 +1,7 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles",];
 
-var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles",];
-  var chocolateBars.push("kitkat")
+var myArray =["snickers", "hundred grand", "kitkat", "skittles"]
 
-var chocolateBars.unshift("snickers")
+chocolateBars.push("snickers")
+
+chocolateBars.unshift("kitkat")
